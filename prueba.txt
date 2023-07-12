@@ -1,0 +1,4 @@
+escribe el codigo em python para aproximar funciones con Serie de Taylor, para distintas funciones y distintos ordenes del polinomio
+utilizando el codigo realizado, verifica los polinomios de Taylor de orden 1,2 y 3 alrededor del punto a para las funciones
+f(x) = Raiz(x+1) en a=0
+f(x) = (x/(x+1)) en a=1
